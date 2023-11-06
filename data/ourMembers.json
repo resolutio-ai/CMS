@@ -1,31 +1,31 @@
 [
   {
     "id": 1,
-    "imageURL": "/team/sneha.jpg",
+    "imageURL": "https://raw.githubusercontent.com/resolutio-ai/CMS/main/images/team/sneha.png",
     "name": "Sneha Vijayan",
     "linkedinURL": "https://www.linkedin.com/in/sneha-vijayan-0a8608169/"
   },
   {
     "id": 2,
-    "imageSrc": "/team/zarreen.jpg",
+    "imageURL": "https://raw.githubusercontent.com/resolutio-ai/CMS/main/images/team/zarreen.png",
     "name": "Zarreen Reza",
     "linkedinURL": "https://www.linkedin.com/in/zarreennreza/"
   },
   {
     "id": 3,
-    "imageURL": "/team/alex.jpg",
+    "imageURL": "https://raw.githubusercontent.com/resolutio-ai/CRM/main/images/team/alex.png",
     "name": "Alexandra",
     "linkedinURL": "https://www.linkedin.com/in/ogubuike-alex"
   },
   {
     "id": 4,
-    "imageURL": "/team/bestin.jpg",
+    "imageURL": "https://raw.githubusercontent.com/resolutio-ai/CMS/main/images/team/bestin.png",
     "name": "Bestin John",
     "linkedinURL": "https://www.linkedin.com/in/bestin-john/"
   },
   {
     "id": 5,
-    "imageURL": "/team/anish.png",
+    "imageURL": "https://raw.githubusercontent.com/resolutio-ai/CMS/main/images/team/anish.png",
     "name": "Anish Praveen",
     "linkedinURL": "https://www.linkedin.com/in/anishprvn/"
   }
