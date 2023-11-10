@@ -1,9 +1,9 @@
 {
   "heading": "Events & Workshops",
-  "description": "Test",
+  "description": "Embark on a creative journey with our workshops, demystifying the art of protection. Engage in exciting competitions that celebrate your artistic talent. Stay tuned for upcoming events shaping your path in the realm of art safeguarding!",
   "btnText": "See more",
-  "link": "#",
-  "isExternal": false,
-  "imageURL": "https://images.unsplash.com/photo-1698118415466-803c9f7e8faa?auto=format&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "link": "https://resolutio.notion.site/Events-Workshops-40501f61e9fb4ee6afcd7673bfbc128f?pvs=4",
+  "isExternal": true,
+  "imageURL": "https://github.com/resolutio-ai/CMS/blob/main/images/house%20of%20memories.jpeg?raw=true",
   "imagePosition": "left"
 }
