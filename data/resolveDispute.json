@@ -1,9 +1,9 @@
 {
   "heading": "Resolve your art dispute",
-  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris",
+  "description": "Unlock affordable dispute resolution with resolutio – the go-to platform for creators seeking a cost-effective alternative to resolve conflicts, ensuring your artistic endeavors are protected",
   "btnText": "Resolve",
-  "link": "/evidence",
+  "link": "https://resolutio.notion.site/dispute-resolution-461facf6707e4d99be3d79f3a4058831?pvs=4",
   "isExternal": false,
-  "imageURL": "https://images.unsplash.com/photo-1561214115-f2f134cc4912?auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "imageURL": "https://github.com/resolutio-ai/CMS/blob/main/images/Liquid%20Memoirs.gif?raw=true",
   "imagePosition": "left"
 }
