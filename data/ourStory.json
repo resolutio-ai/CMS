@@ -1,9 +1,9 @@
 {
-  "heading": "the Idea came to you. Create it. Own it. Eternalise it.",
-  "description": "making the Artist as Eternal as your Art.",
+  "heading": "The idea came to you. Create it. Own it. Eternalise it.",
+  "description": "making the Artist as Eternal as the Art.",
   "btnText": "Our Story",
-  "link": "#",
-  "isExternal": false,
-  "imageURL": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "link": "https://resolutio.notion.site/understanding-resolutio-ca37e7b5b26041808dd416323bfb3a3c?pvs=4",
+  "isExternal": true,
+  "imageURL": "https://github.com/resolutio-ai/CMS/blob/main/images/raymond%20george%20dias.jpg?raw=true",
   "imagePosition": "right"
 }
