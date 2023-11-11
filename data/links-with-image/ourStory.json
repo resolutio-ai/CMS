@@ -6,5 +6,10 @@
   "isExternal": true,
   "imageURL": "https://raw.githubusercontent.com/resolutio-ai/CMS/main/images/banners/raymond_george_dias.jpg",
   "isGIF": false,
-  "imagePosition": "right"
+  "imagePosition": "right",
+  "author": {
+    "name": "Aashika Jain",
+    "artName": "Buffering",
+    "profileLink": "#"
+  }
 }

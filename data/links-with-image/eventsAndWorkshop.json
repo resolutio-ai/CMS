@@ -6,5 +6,10 @@
   "isExternal": true,
   "imageURL": "https://raw.githubusercontent.com/resolutio-ai/CMS/main/images/banners/house_of_memories.jpeg",
   "isGIF": false,
-  "imagePosition": "left"
+  "imagePosition": "left",
+  "author": {
+    "name": "Aashika Jain",
+    "artName": "Buffering",
+    "profileLink": "#"
+  }
 }

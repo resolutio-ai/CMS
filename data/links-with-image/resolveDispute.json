@@ -6,5 +6,10 @@
   "isExternal": false,
   "imageURL": "https://raw.githubusercontent.com/resolutio-ai/CMS/main/images/banners/liquid_memoirs.gif",
   "isGIF": true,
-  "imagePosition": "left"
+  "imagePosition": "left",
+  "author": {
+    "name": "Aashika Jain",
+    "artName": "Buffering",
+    "profileLink": "#"
+  }
 }
