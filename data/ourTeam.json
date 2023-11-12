@@ -2,14 +2,14 @@
   {
     "id": 1,
     "imageURL": "https://raw.githubusercontent.com/resolutio-ai/CMS/main/images/team/sneha.png",
-    "name": "Sneha Vijayan",
+    "name": "Sneha",
     "linkedinURL": "https://www.linkedin.com/in/sneha-vijayan-0a8608169/",
     "mask": "#FFCA70"
   },
   {
     "id": 2,
     "imageURL": "https://raw.githubusercontent.com/resolutio-ai/CMS/main/images/team/zarreen.png",
-    "name": "Zarreen Reza",
+    "name": "Zarreen",
     "linkedinURL": "https://www.linkedin.com/in/zarreennreza/",
     "mask": "#B7ACD3"
   },
@@ -23,14 +23,14 @@
   {
     "id": 4,
     "imageURL": "https://raw.githubusercontent.com/resolutio-ai/CMS/main/images/team/bestin.png",
-    "name": "Bestin John",
+    "name": "Bestin",
     "linkedinURL": "https://www.linkedin.com/in/bestin-john/",
     "mask": "#908CD8"
   },
   {
     "id": 5,
     "imageURL": "https://raw.githubusercontent.com/resolutio-ai/CMS/main/images/team/anish.png",
-    "name": "Anish Praveen",
+    "name": "Anish",
     "linkedinURL": "https://www.linkedin.com/in/anishprvn/",
     "mask": "#F0CEB2"
   }
