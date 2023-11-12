@@ -3,35 +3,35 @@
     "id": 1,
     "imageURL": "https://raw.githubusercontent.com/resolutio-ai/CMS/main/images/team/sneha.png",
     "name": "Sneha",
-    "linkedinURL": "https://www.linkedin.com/in/sneha-vijayan-0a8608169/",
+    "profileLink": "https://www.linkedin.com/in/sneha-vijayan-0a8608169/",
     "mask": "#FFCA70"
   },
   {
     "id": 2,
     "imageURL": "https://raw.githubusercontent.com/resolutio-ai/CMS/main/images/team/zarreen.png",
     "name": "Zarreen",
-    "linkedinURL": "https://www.linkedin.com/in/zarreennreza/",
+    "profileLink": "https://www.linkedin.com/in/zarreennreza/",
     "mask": "#B7ACD3"
   },
   {
     "id": 3,
     "imageURL": "https://raw.githubusercontent.com/resolutio-ai/CMS/main/images/team/alex.png",
     "name": "Alexandra",
-    "linkedinURL": "https://www.linkedin.com/in/ogubuike-alex",
+    "profileLink": "https://www.linkedin.com/in/ogubuike-alex",
     "mask": "#E76B5D"
   },
   {
     "id": 4,
     "imageURL": "https://raw.githubusercontent.com/resolutio-ai/CMS/main/images/team/bestin.png",
     "name": "Bestin",
-    "linkedinURL": "https://www.linkedin.com/in/bestin-john/",
+    "profileLink": "https://www.linkedin.com/in/bestin-john/",
     "mask": "#908CD8"
   },
   {
     "id": 5,
     "imageURL": "https://raw.githubusercontent.com/resolutio-ai/CMS/main/images/team/anish.png",
     "name": "Anish",
-    "linkedinURL": "https://www.linkedin.com/in/anishprvn/",
+    "profileLink": "https://www.linkedin.com/in/anishprvn/",
     "mask": "#F0CEB2"
   }
 ]
