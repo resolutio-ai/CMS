@@ -7,6 +7,7 @@
   "imageURL": "https://raw.githubusercontent.com/resolutio-ai/CMS/main/images/banners/buffering_by_aashika.jpeg",
   "isGIF": false,
   "imagePosition": "right",
+  "showAuthor": true,
   "author": {
     "name": "Aashika Jain",
     "artName": "Buffering",

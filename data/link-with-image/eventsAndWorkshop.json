@@ -7,6 +7,7 @@
   "imageURL": "https://raw.githubusercontent.com/resolutio-ai/CMS/main/images/banners/events.jpeg",
   "isGIF": false,
   "imagePosition": "left",
+  "showAuthor": true,
   "author": {
     "name": "#IBWDesignChallenge",
     "artName": "",
