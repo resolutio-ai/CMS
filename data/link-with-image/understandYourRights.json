@@ -4,13 +4,13 @@
   "btnText": "Learn",
   "link": "/coming-soon",
   "isExternal": false,
-  "imageURL": "https://raw.githubusercontent.com/resolutio-ai/CMS/main/images/banners/buffering_by_aashika.jpeg",
+  "imageURL": "https://raw.githubusercontent.com/resolutio-ai/CMS/main/images/banners/aashi.png",
   "isGIF": false,
   "imagePosition": "right",
-  "showAuthor": true,
+  "showAuthor": false,
   "author": {
     "name": "Aashika Jain",
     "artName": "Buffering",
-    "profileLink": "#"
+    "profileLink": "https://www.instagram.com/p/CEM587GpKOC/"
   }
 }
