@@ -7,7 +7,7 @@
   "imageURL": "https://raw.githubusercontent.com/resolutio-ai/CMS/main/images/banners/LiquidMemoirs.gif",
   "isGIF": true,
   "imagePosition": "left",
-  "showAuthor": false,
+  "showAuthor": true,
   "author": {
     "name": "Liquid Memoirs",
     "artName": "Solace",
