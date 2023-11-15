@@ -7,10 +7,10 @@
   "imageURL": "https://raw.githubusercontent.com/resolutio-ai/CMS/main/images/banners/aashi.png",
   "isGIF": false,
   "imagePosition": "right",
-  "showAuthor": false,
+  "showAuthor": true,
   "author": {
-    "name": "Aashika Jain",
+    "name": "Aashika Vijayan",
     "artName": "Buffering",
-    "profileLink": "https://www.instagram.com/p/CEM587GpKOC/"
+    "profileLink": "https://aashikav96.myportfolio.com/digital-illustrations"
   }
 }
