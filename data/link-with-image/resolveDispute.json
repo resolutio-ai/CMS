@@ -4,8 +4,8 @@
   "btnText": "Resolve",
   "link": "/coming-soon",
   "isExternal": false,
-  "imageURL": "https://raw.githubusercontent.com/resolutio-ai/CMS/main/images/banners/LiquidMemoirs.gif",
-  "isGIF": true,
+  "imageURL": "https://raw.githubusercontent.com/resolutio-ai/CMS/601ec785cf6c81975a6a8524333bfe79821d2e00/images/banners/Solace%20Cover.jpg",
+  "isGIF": false,
   "imagePosition": "left",
   "showAuthor": true,
   "author": {
