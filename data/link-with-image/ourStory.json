@@ -7,10 +7,10 @@
   "imageURL": "https://raw.githubusercontent.com/resolutio-ai/CMS/main/images/banners/Memoria-Poster-4.jpg",
   "isGIF": false,
   "imagePosition": "right",
-  "showAuthor": false,
+  "showAuthor": true,
   "author": {
     "name": "Raymond George Dias",
-    "artName": "House of Momories",
+    "artName": "House of Momory",
     "profileLink": "https://www.youtube.com/watch?v=vthNBIFNYjU"
   }
 }
