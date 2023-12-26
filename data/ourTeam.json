@@ -4,34 +4,39 @@
     "imageURL": "https://raw.githubusercontent.com/resolutio-ai/CMS/main/images/team/sneha.png",
     "name": "Sneha",
     "profileLink": "https://www.linkedin.com/in/sneha-vijayan-0a8608169/",
-    "mask": "#FFCA70"
+    "mask": "#FFCA70",
+    "tags": ["sneha"]
   },
   {
     "id": 2,
     "imageURL": "https://raw.githubusercontent.com/resolutio-ai/CMS/main/images/team/zarreen.png",
     "name": "Zarreen",
     "profileLink": "https://www.linkedin.com/in/zarreennreza/",
-    "mask": "#B7ACD3"
+    "mask": "#B7ACD3",
+    "tags": ["zarreen"]
   },
   {
     "id": 3,
     "imageURL": "https://raw.githubusercontent.com/resolutio-ai/CMS/main/images/team/alex.png",
     "name": "Alexandra",
     "profileLink": "https://www.linkedin.com/in/ogubuike-alex",
-    "mask": "#E76B5D"
+    "mask": "#E76B5D",
+    "tags": ["alex"]
   },
   {
     "id": 4,
     "imageURL": "https://raw.githubusercontent.com/resolutio-ai/CMS/main/images/team/bestin.png",
     "name": "Bestin",
     "profileLink": "https://www.linkedin.com/in/bestin-john/",
-    "mask": "#908CD8"
+    "mask": "#908CD8",
+    "tags": ["bestin"]
   },
   {
     "id": 5,
     "imageURL": "https://raw.githubusercontent.com/resolutio-ai/CMS/main/images/team/anish.png",
     "name": "Anish",
     "profileLink": "https://www.linkedin.com/in/anishprvn/",
-    "mask": "#F0CEB2"
+    "mask": "#F0CEB2",
+    "tags": ["anish"]
   }
 ]
