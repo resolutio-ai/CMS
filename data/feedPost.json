@@ -1,0 +1,50 @@
+[
+   {
+    creator: 'creator123',
+    creatorImage: "https://github.com/resolutio-ai/CMS/blob/dev/images/feedImages/Image.png",
+    art: "https://raw.githubusercontent.com/resolutio-ai/CMS/dev/images/feedImages/image.png",
+    description:
+      'My first AI creation! I am happy to post my art from my latest collections!',
+    code: 'CC-BY-NC-ND',
+    licence: '',
+    href: '',
+    artdescription: "https://raw.githubusercontent.com/resolutio-ai/CMS/dev/images/feedImages/star-06.svg"
+    id: '1',
+  },
+  {
+    creator: 'creator123',
+    creatorImage: "https://raw.githubusercontent.com/resolutio-ai/CMS/dev/images/feedImages/image.png",
+    art: "https://raw.githubusercontent.com/resolutio-ai/CMS/dev/images/feedImages/image2.png",
+    description:
+      'My first AI creation! I am happy to post my art from my latest collections!',
+    code: 'CC-BY-NC-ND',
+    licence: '',
+    href: '',
+    artdescription: "https://raw.githubusercontent.com/resolutio-ai/CMS/dev/images/feedImages/pencil-line.svg",
+    id: '2',
+  },
+  {
+    creator: 'creator123',
+    creatorImage: "https://raw.githubusercontent.com/resolutio-ai/CMS/dev/images/feedImages/image2.png",
+    art: "https://raw.githubusercontent.com/resolutio-ai/CMS/dev/images/feedImages/image.png",
+    description:
+      'My first AI creation! I am happy to post my art from my latest collections!',
+    code: 'CC-BY-NC-ND',
+    licence: '',
+    href: '',
+    artdescription: "https://raw.githubusercontent.com/resolutio-ai/CMS/dev/images/feedImages/music-note-01.svg",
+    id: '3',
+  },
+  {
+    creator: 'creator123',
+    creatorImage: "https://raw.githubusercontent.com/resolutio-ai/CMS/dev/images/feedImages/image.png",
+    art: "https://raw.githubusercontent.com/resolutio-ai/CMS/dev/images/feedImages/image2.png",
+    description:
+      'My first AI creation! I am happy to post my art from my latest collections!',
+    code: 'CC-BY-NC-ND',
+    licence: '',
+    href: '',
+    artdescription: "https://raw.githubusercontent.com/resolutio-ai/CMS/dev/images/feedImages/brush-01.svg",
+    id: '4',
+  },
+]
