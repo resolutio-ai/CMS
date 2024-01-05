@@ -3,11 +3,11 @@
     "id": 1,
     "creator": {
       "name": "Sneha",
-      "image": "https://github.com/resolutio-ai/CMS/blob/dev/images/feedImages/Image.png"
+      "image": "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
     },
     "work": {
       "type": "art",
-      "url": "https://raw.githubusercontent.com/resolutio-ai/CMS/dev/images/feedImages/image.png",
+      "url": "https://raw.githubusercontent.com/resolutio-ai/CMS/dev/images/feeds/art_1.png",
       "description": "My first AI creation! I am happy to post my art from my latest collections!"
     },
     "createdOn": "2021-06-01T12:00:00.000Z",
@@ -19,11 +19,11 @@
     "id": 2,
     "creator": {
       "name": "Raj",
-      "image": "https://github.com/resolutio-ai/CMS/blob/dev/images/feedImages/Artist_Raj.jpg"
+      "image": "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
     },
     "work": {
       "type": "art",
-      "url": "https://raw.githubusercontent.com/resolutio-ai/CMS/dev/images/feedImages/photo1.jpg",
+      "url": "https://raw.githubusercontent.com/resolutio-ai/CMS/dev/images/feeds/art_2.png",
       "description": "Capturing the beauty of nature during sunrise. A mesmerizing moment frozen in time!"
     },
     "createdOn": "2021-07-15T14:30:00.000Z",
@@ -35,11 +35,11 @@
     "id": 3,
     "creator": {
       "name": "Alex",
-      "image": "https://github.com/resolutio-ai/CMS/blob/dev/images/feedImages/Creator_Alex.png"
+      "image": "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
     },
     "work": {
       "type": "art",
-      "url": "https://raw.githubusercontent.com/resolutio-ai/CMS/dev/images/feedImages/poem.txt",
+      "url": "https://raw.githubusercontent.com/resolutio-ai/CMS/dev/images/feeds/art_1.png",
       "description": "Exploring the depths of emotions through poetry. Here's a heartfelt composition for everyone to enjoy!"
     },
     "createdOn": "2021-08-20T18:45:00.000Z",
@@ -51,11 +51,11 @@
     "id": 4,
     "creator": {
       "name": "Maria",
-      "image": "https://github.com/resolutio-ai/CMS/blob/dev/images/feedImages/Artist_Maria.jpg"
+      "image": "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
     },
     "work": {
       "type": "art",
-      "url": "https://raw.githubusercontent.com/resolutio-ai/CMS/dev/images/feedImages/digital_artwork.png",
+      "url": "https://raw.githubusercontent.com/resolutio-ai/CMS/dev/images/feeds/art_2.png",
       "description": "Venturing into the digital realm with vibrant colors and abstract forms. Excited to share my latest creation!"
     },
     "createdOn": "2021-09-10T10:15:00.000Z",
