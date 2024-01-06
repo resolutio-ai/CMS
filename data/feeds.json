@@ -2,11 +2,11 @@
   {
     "id": 1,
     "creator": {
-      "name": "Sneha",
+      "name": "Sneha Muttermann",
       "image": "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
     },
     "work": {
-      "type": "art",
+      "type": "ai",
       "url": "https://raw.githubusercontent.com/resolutio-ai/CMS/dev/images/feeds/art_1.png",
       "description": "My first AI creation! I am happy to post my art from my latest collections!"
     },
@@ -18,11 +18,11 @@
   {
     "id": 2,
     "creator": {
-      "name": "Raj",
+      "name": "Sam William",
       "image": "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
     },
     "work": {
-      "type": "art",
+      "type": "drawing",
       "url": "https://raw.githubusercontent.com/resolutio-ai/CMS/dev/images/feeds/art_2.png",
       "description": "Capturing the beauty of nature during sunrise. A mesmerizing moment frozen in time!"
     },
@@ -34,11 +34,11 @@
   {
     "id": 3,
     "creator": {
-      "name": "Alex",
+      "name": "Natalia Mendis",
       "image": "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
     },
     "work": {
-      "type": "art",
+      "type": "music",
       "url": "https://raw.githubusercontent.com/resolutio-ai/CMS/dev/images/feeds/art_1.png",
       "description": "Exploring the depths of emotions through poetry. Here's a heartfelt composition for everyone to enjoy!"
     },
@@ -50,11 +50,11 @@
   {
     "id": 4,
     "creator": {
-      "name": "Maria",
+      "name": "Maria Ivy",
       "image": "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
     },
     "work": {
-      "type": "art",
+      "type": "painting",
       "url": "https://raw.githubusercontent.com/resolutio-ai/CMS/dev/images/feeds/art_2.png",
       "description": "Venturing into the digital realm with vibrant colors and abstract forms. Excited to share my latest creation!"
     },
