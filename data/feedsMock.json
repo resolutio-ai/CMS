@@ -1,1 +1,98 @@
-
+[
+    {
+      "_id": "6647911febb46a2c0533cccd",
+      "userId": "6615a3833975538997f6fcef",
+      "nameOfWork": "Time",
+      "medium": "Photo",
+      "timeStamp": "2024-05-17T17:17:19.333Z",
+      "licenseType": "CC BY",
+      "cid": "4598l0l890acckkf",
+      "fileUploadResponse": {
+        "hash": "sample-hash",
+        "name": "sample-file.jpg",
+        "size": "1MB",
+        "_id": "6647911febb46a2c0533ccce"
+      },
+      "licenseUploadResponse": {
+        "hash": "sample-license-hash",
+        "name": "sample-license.pdf",
+        "size": "500KB",
+        "_id": "6647911febb46a2c0533cccf"
+      },
+      "createdAt": "2024-05-17T17:17:19.340Z",
+      "updatedAt": "2024-05-17T17:17:19.340Z",
+      "__v": 0
+    },
+    {
+      "_id": "6647913cebb46a2c0533ccd2",
+      "userId": "6615a2d23975538997f6fce7",
+      "nameOfWork": "sea",
+      "medium": "Art",
+      "timeStamp": "2024-05-17T17:17:48.731Z",
+      "licenseType": "CC BY",
+      "cid": "4598l0l890acppl",
+      "fileUploadResponse": {
+        "hash": "sample-hash",
+        "name": "sample-file.jpg",
+        "size": "1MB",
+        "_id": "6647913cebb46a2c0533ccd3"
+      },
+      "licenseUploadResponse": {
+        "hash": "sample-license-hash",
+        "name": "sample-license.pdf",
+        "size": "500KB",
+        "_id": "6647913cebb46a2c0533ccd4"
+      },
+      "createdAt": "2024-05-17T17:17:48.732Z",
+      "updatedAt": "2024-05-17T17:17:48.732Z",
+      "__v": 0
+    },
+    {
+      "_id": "66479170ebb46a2c0533ccd8",
+      "userId": "6615a2d23975538997f6fce7",
+      "nameOfWork": "fireworks",
+      "medium": "Art",
+      "timeStamp": "2024-05-17T17:18:40.720Z",
+      "licenseType": "CC-BY-NC",
+      "cid": "4598l0l890lcppl",
+      "fileUploadResponse": {
+        "hash": "sample-hash",
+        "name": "sample-file.jpg",
+        "size": "1MB",
+        "_id": "66479170ebb46a2c0533ccd9"
+      },
+      "licenseUploadResponse": {
+        "hash": "sample-license-hash",
+        "name": "sample-license.pdf",
+        "size": "500KB",
+        "_id": "66479170ebb46a2c0533ccda"
+      },
+      "createdAt": "2024-05-17T17:18:40.721Z",
+      "updatedAt": "2024-05-17T17:18:40.721Z",
+      "__v": 0
+    },
+    {
+      "_id": "6648eb508b0ca6bdbb719c89",
+      "userId": "6615a2d23975538997f6fce9",
+      "nameOfWork": "fireworks",
+      "medium": "Art",
+      "timeStamp": "2024-05-18T17:54:24.550Z",
+      "licenseType": "CC-BY-NC",
+      "cid": "4598l0l890lcppo",
+      "fileUploadResponse": {
+        "hash": "sample-hash",
+        "name": "sample-file.jpg",
+        "size": "1MB",
+        "_id": "6648eb508b0ca6bdbb719c8a"
+      },
+      "licenseUploadResponse": {
+        "hash": "sample-license-hash",
+        "name": "sample-license.pdf",
+        "size": "500KB",
+        "_id": "6648eb508b0ca6bdbb719c8b"
+      },
+      "createdAt": "2024-05-18T17:54:24.564Z",
+      "updatedAt": "2024-05-18T17:54:24.564Z",
+      "__v": 0
+    }
+]
