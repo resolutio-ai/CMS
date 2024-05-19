@@ -3,7 +3,7 @@
     "id": 1,
     "creator": {
       "name": "Sneha Muttermann",
-      "image": "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
+      "image": "https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
     },
     "work": {
       "type": "ai",
@@ -19,7 +19,7 @@
     "id": 2,
     "creator": {
       "name": "Sam William",
-      "image": "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
+      "image": "https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
     },
     "work": {
       "type": "drawing",
@@ -35,7 +35,7 @@
     "id": 3,
     "creator": {
       "name": "Natalia Mendis",
-      "image": "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
+      "image": "https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
     },
     "work": {
       "type": "music",
@@ -51,7 +51,7 @@
     "id": 4,
     "creator": {
       "name": "Maria Ivy",
-      "image": "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
+      "image": "https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
     },
     "work": {
       "type": "painting",
